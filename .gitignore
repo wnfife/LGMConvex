@@ -1,0 +1,4 @@
+*.asv
+*.tex
+*.mat
+results/*
